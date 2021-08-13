@@ -6,4 +6,6 @@ burada bir seyler yaziyoruz.
 
 [[read me.md]]
 
+[read](readme.md)
+
 burada baska seyler yaziyoruz.
