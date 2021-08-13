@@ -4,8 +4,8 @@
 
 burada bir seyler yaziyoruz.
 
-[[read me.md]]
+[[README.md]]
 
-[read](readme.md)
+[read](README.md)
 
 burada baska seyler yaziyoruz.
